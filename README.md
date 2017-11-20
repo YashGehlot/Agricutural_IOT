@@ -47,7 +47,7 @@ The complete system “Agricultural IoT” consists of a number of individual no
 This network that we have created is using esp8266 module. These esps communicate with each other using wifi signals. The esps gather the different sensors data and then transfer it. 
 A SIM card enabled Data hub is placed in the field anywhere near the mesh so as to collect all the data from each and every node and each and every sensor. The Data hub consists of ESP8266, Arduino, GSM module.
 The collected data is uploaded to the servers for further processing with respect to crops. Once the the data has been processed the farmer is notified via SMS to take necessary action. 
-image.png
+https://github.com/YashGehlot/Agricutural_IOT/blob/master/image.png
 
 
 ROLE OF EACH NODE IN THE SYSTEM
