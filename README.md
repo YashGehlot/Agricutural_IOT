@@ -63,10 +63,10 @@ Esp8266:The ESP8266 is a low-cost Wi-Fi chip with full TCP/IP stack and MCU (mic
 ![image](https://github.com/YashGehlot/Agricutural_IOT/blob/master/esp.jpg)
 
 Soil Moisture Sensor: Measures the volumetric water content in the soil.
-![image](https://github.com/YashGehlot/Agricutural_IOT/blob/master/soil moist.jpg)
+![image](https://github.com/YashGehlot/Agricutural_IOT/blob/master/soil%20moist.jpg)
 
 Gas Sensors (MQ2 and MQ4): MQ2 is a smoke sensor and MQ4 is methane sensor.
-![image](https://github.com/YashGehlot/Agricutural_IOT/blob/master/gas sensor.jpg)
+![image](https://github.com/YashGehlot/Agricutural_IOT/blob/master/gas%20sensor.jpg)
 
 DHT11: The DHT11 is a basic, ultra low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data pin (no analog input pins needed). 
 Its fairly simple to use, but requires careful timing to grab data. The only real downside of this sensor is you can only get new data from it once every 2 seconds, so when using our library, sensor readings can be up to 2 seconds old.
@@ -75,10 +75,10 @@ Its fairly simple to use, but requires careful timing to grab data. The only rea
 
 CIRCUIT DIAGRAMS
 FIGURE : STORAGE NODE
-![image](https://github.com/YashGehlot/Agricutural_IOT/blob/master/storageNode.jpg)
+![image](https://github.com/YashGehlot/Agricutural_IOT/blob/master/storageNode.png)
 
 FIGURE : FIELD NODE
-![image](https://github.com/YashGehlot/Agricutural_IOT/blob/master/fieldNode.jpg)
+![image](https://github.com/YashGehlot/Agricutural_IOT/blob/master/fieldNode.png)
 
 FIGURE : DATA NODE
-![image](https://github.com/YashGehlot/Agricutural_IOT/blob/master/dataNode.jpg)
+![image](https://github.com/YashGehlot/Agricutural_IOT/blob/master/dataNode.png)
